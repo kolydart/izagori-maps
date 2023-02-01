@@ -4,7 +4,6 @@ Some maps included in izagori.gr web application.
 
 https://izagori.gr/
 
-
 #### examples
 
 https://izagori.gr/xoria.html
@@ -21,3 +20,6 @@ https://izagori.gr/tour/maps/25-items/tour/maps/51-vradeto-kapesovo-path.html
 
 https://izagori.gr/tour/maps/25-items/tour/maps/743-διαδρομή-βραδέτο-καταφύγιο-αστράκας.html
 
+#### License
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
